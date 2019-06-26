@@ -1,1 +1,1 @@
-const env = prod;
+const env = dev;
